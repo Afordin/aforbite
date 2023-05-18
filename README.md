@@ -1,6 +1,6 @@
 # AFOR BITE
 
-![](https://media.discordapp.net/attachments/1103445214527488063/1106526155026206831/afor_evil_laugh_1.gif)
+![afot biting gif](/assets/afor_biting.gif)
 
 ## Créditos
 
