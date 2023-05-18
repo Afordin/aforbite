@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Afor bite</title>
+    <script defer src="app.js"></script>
+    <link rel="stylesheet" href="app.css">
+    <link rel="icon" href="assets/Isotipo_Afordin.svg">
+</head>
+<body>
+    <div id="encap">
+        <video muted id="bite">
+            <source src="assets/afor_bite_slow.mp4" type="video/mp4">
+        </video>
+    </div>
+
+    <audio id="bite-audio" hidden>
+        <source src="assets/bite.mp3" type="audio/mpeg">
+    </audio>
+    
+    <div id="request-interact" onclick="this.style.display = 'none'">
+        <span>Haz clic para empezar</span>
+    </div>
+</body>
+</html>
